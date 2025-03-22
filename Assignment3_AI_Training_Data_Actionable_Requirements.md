@@ -171,3 +171,13 @@ Detecting and correcting bias improves AI model reliability.
   - Install and configure library  
   - Run tests on sample dataset  
   - Output basic bias metrics 
+
+  **Sub-Issue 2:** Display Bias Summary in UI  
+**Priority:** 🟠 Medium  
+- **Goal:** Help developers visualize fairness issues.  
+- **Approach:** Show visual stats like pie/bar charts.  
+- **Tasks:**  
+  - Integrate Chart.js  
+  - Render balance summary view  
+  - Test across user inputs 
+  
