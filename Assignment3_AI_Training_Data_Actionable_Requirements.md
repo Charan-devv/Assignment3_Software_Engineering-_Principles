@@ -42,3 +42,13 @@ Categorized questions help developers find relevant data faster.
   - Design UI mockup for category tagging  
   - Implement reusable dropdown/tag selector  
   - Integrate component with question form  
+
+  **Sub-Issue 2:** Enable Backend Storage for Categories  
+**Priority:** 🔴 High  
+- **Goal:** Persist category information when saving questions.  
+- **Approach:** Update API and DB schema to support category field.  
+- **Tasks:**  
+  - Modify backend controller to accept category field  
+  - Update DB model  
+  - Test with sample data insertion 
+  
