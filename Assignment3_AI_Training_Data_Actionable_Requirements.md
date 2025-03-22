@@ -107,3 +107,13 @@ Separating questions and answers reduces bias and improves developer focus.
   - Design DB schema  
   - Implement using PostgreSQL  
   - Test table relationships 
+
+  **Sub-Issue 2:** Design Toggle Component for Answer Visibility  
+**Priority:** 🔴 High  
+- **Goal:** Allow users to optionally reveal answers when needed.  
+- **Approach:** Use React/Vue to implement toggle button.  
+- **Tasks:**  
+  - Add "Show/Hide Answer" toggle  
+  - Set default to hidden  
+  - Handle state transitions and UI feedback
+  
