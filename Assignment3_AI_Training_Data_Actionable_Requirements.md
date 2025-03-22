@@ -27,3 +27,8 @@ Categorized questions help developers find relevant data faster.
 **Validation Strategy:**  
 - Interview developers to evaluate improvements in workflow.  
 - Compare search times using categorized vs. uncategorized datasets.  
+
+**Implementation Strategy:**  
+- Extend the database schema to include a `category` field.  
+- Design a user interface for selecting categories when adding questions.  
+- Enable filtering of questions by category in the UI.  
