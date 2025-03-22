@@ -20,3 +20,10 @@ This document breaks down user requirements into separate, actionable GitHub tas
 
 **User Story:**  
 *As an AI developer, I want training questions to be grouped by category so I can quickly find relevant data for model training.*
+
+**Assumption:**  
+Categorized questions help developers find relevant data faster.
+
+**Validation Strategy:**  
+- Interview developers to evaluate improvements in workflow.  
+- Compare search times using categorized vs. uncategorized datasets.  
