@@ -218,3 +218,13 @@ Clear reporting helps developers improve dataset fairness.
   - Design report schema  
   - Add export buttons  
   - Auto-generate on trigger  
+
+**Sub-Issue 2:** Add Time Range Filter to Dashboard  
+**Priority:** 🟢 Low  
+- **Goal:** Let users customize report date range.  
+- **Approach:** Add date selector in UI.  
+- **Tasks:**  
+  - Add calendar input  
+  - Bind to backend filters  
+  - Update visual output accordingly  
+  
