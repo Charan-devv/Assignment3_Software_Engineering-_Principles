@@ -79,3 +79,9 @@ Categorized questions help developers find relevant data faster.
   - Refactor slow queries if needed  
 
 ---
+
+##  User Requirement2: Separate Questions and Answers
+
+**User Story:**  
+*As an AI developer, I want questions stored separately from answers so I can think critically without being biased by the solution.*
+
