@@ -66,3 +66,16 @@ Categorized questions help developers find relevant data faster.
 - Use dropdown or tag-based category input  
 - Index the `category` column in the database for performance  
 - Use standard CSS frameworks (e.g., Bootstrap) for UI consistency 
+
+### Implementation Suggestions Sub-Issue
+
+**Sub-Issue 4:** Optimize Category Queries in Database  
+**Priority:** 🟠 Medium  
+- **Goal:** Improve search performance for category-based queries.  
+- **Approach:** Add indexing and optimize query performance.  
+- **Tasks:**  
+  - Add index to category column  
+  - Analyze query performance before/after  
+  - Refactor slow queries if needed  
+
+---
