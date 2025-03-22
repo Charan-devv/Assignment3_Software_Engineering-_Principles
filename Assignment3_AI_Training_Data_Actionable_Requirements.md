@@ -142,3 +142,10 @@ Separating questions and answers reduces bias and improves developer focus.
   - Create answer view log table  
   - Insert log on each toggle  
   - Create admin view for audit  
+---
+
+## User Requirement3: Balanced Training Data
+
+**User Story:**  
+*As an AI developer, I want to detect bias in my data so I can ensure my models are trained fairly.*
+
