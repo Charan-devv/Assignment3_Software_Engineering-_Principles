@@ -51,4 +51,13 @@ Categorized questions help developers find relevant data faster.
   - Modify backend controller to accept category field  
   - Update DB model  
   - Test with sample data insertion 
+
+  **Sub-Issue 3:** Filter Questions by Category (Frontend)  
+**Priority:** 🔴 High  
+- **Goal:** Allow users to view questions based on selected category.  
+- **Approach:** Add category filter dropdown to UI.  
+- **Tasks:**  
+  - Build category filter UI  
+  - Connect it to backend API  
+  - Display filtered results dynamically  
   
