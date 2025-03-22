@@ -207,3 +207,14 @@ Clear reporting helps developers improve dataset fairness.
 - Build a reporting dashboard.  
 - Automate report generation and scheduling.  
 - Export data into user-friendly formats.
+
+### Implementation Strategy Sub-Issues
+
+**Sub-Issue 1:** Create PDF/JSON Report Generator  
+**Priority:** 🔴 High  
+- **Goal:** Export balance reports in readable formats.  
+- **Approach:** Backend script to convert JSON to PDF/JSON.  
+- **Tasks:**  
+  - Design report schema  
+  - Add export buttons  
+  - Auto-generate on trigger  
