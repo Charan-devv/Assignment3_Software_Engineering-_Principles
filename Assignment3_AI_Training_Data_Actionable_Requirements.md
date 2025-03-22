@@ -126,3 +126,8 @@ Separating questions and answers reduces bias and improves developer focus.
   - Enforce in route/middleware  
   - Test role restrictions 
   
+### Implementation Suggestions
+
+- Use foreign key `question_id` in the `training_answers` table  
+- Add access logging when users reveal answers  
+- Use React or Vue for toggle interactivity  
