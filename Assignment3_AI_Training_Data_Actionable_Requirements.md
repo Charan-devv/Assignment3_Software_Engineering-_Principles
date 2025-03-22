@@ -155,3 +155,8 @@ Detecting and correcting bias improves AI model reliability.
 **Validation Strategy:**  
 - Compare model metrics before and after balancing datasets.  
 - Ask developers if bias reports improved their dataset decisions.  
+
+**Implementation Strategy:**  
+- Integrate a fairness detection tool.  
+- Visualize dataset imbalance.  
+- Allow manual rebalancing before training. 
