@@ -15,3 +15,8 @@ This document breaks down user requirements into separate, actionable GitHub tas
 | 🟢 Low    | Reports on Data Balance        | Useful for audit and improvement, not immediately required |
 
 ---
+
+##  User Requirement: Categorized Training Questions
+
+**User Story:**  
+*As an AI developer, I want training questions to be grouped by category so I can quickly find relevant data for model training.*
