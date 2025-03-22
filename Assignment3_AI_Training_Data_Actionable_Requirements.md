@@ -189,4 +189,10 @@ Detecting and correcting bias improves AI model reliability.
   - Create filter control bar  
   - Adjust sampling or weighting logic  
   - Retest after adjustments 
-  
+---
+
+## User Requirement4: Reports on Data Balance
+
+**User Story:**  
+*As an AI developer, I want reports on data balance so I can identify gaps and improve training quality.*
+
