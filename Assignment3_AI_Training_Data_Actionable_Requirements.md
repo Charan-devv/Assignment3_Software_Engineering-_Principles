@@ -131,3 +131,14 @@ Separating questions and answers reduces bias and improves developer focus.
 - Use foreign key `question_id` in the `training_answers` table  
 - Add access logging when users reveal answers  
 - Use React or Vue for toggle interactivity  
+
+### Implementation Suggestions Sub-Issue
+
+**Sub-Issue 4:** Log Answer View Events  
+**Priority:** 🟢 Low  
+- **Goal:** Track access to answer data.  
+- **Approach:** Log timestamp and userID when answer is revealed.  
+- **Tasks:**  
+  - Create answer view log table  
+  - Insert log on each toggle  
+  - Create admin view for audit  
