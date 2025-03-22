@@ -227,4 +227,13 @@ Clear reporting helps developers improve dataset fairness.
   - Add calendar input  
   - Bind to backend filters  
   - Update visual output accordingly  
+
+  **Sub-Issue 3:** Schedule Automated Report Jobs  
+**Priority:** 🟢 Low  
+- **Goal:** Automate periodic report generation.  
+- **Approach:** Use cron or backend scheduler.  
+- **Tasks:**  
+  - Create report job handler  
+  - Schedule weekly/monthly generation  
+  - Email or store output  
   
