@@ -60,4 +60,9 @@ Categorized questions help developers find relevant data faster.
   - Build category filter UI  
   - Connect it to backend API  
   - Display filtered results dynamically  
-  
+
+  ### Implementation Suggestions
+
+- Use dropdown or tag-based category input  
+- Index the `category` column in the database for performance  
+- Use standard CSS frameworks (e.g., Bootstrap) for UI consistency 
