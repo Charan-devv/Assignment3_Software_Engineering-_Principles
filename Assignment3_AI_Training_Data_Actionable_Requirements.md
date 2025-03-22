@@ -32,3 +32,5 @@ Categorized questions help developers find relevant data faster.
 - Extend the database schema to include a `category` field.  
 - Design a user interface for selecting categories when adding questions.  
 - Enable filtering of questions by category in the UI.  
+
+### Implementation Strategy Sub-Issues
