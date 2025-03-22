@@ -149,3 +149,9 @@ Separating questions and answers reduces bias and improves developer focus.
 **User Story:**  
 *As an AI developer, I want to detect bias in my data so I can ensure my models are trained fairly.*
 
+**Assumption:**  
+Detecting and correcting bias improves AI model reliability.
+
+**Validation Strategy:**  
+- Compare model metrics before and after balancing datasets.  
+- Ask developers if bias reports improved their dataset decisions.  
