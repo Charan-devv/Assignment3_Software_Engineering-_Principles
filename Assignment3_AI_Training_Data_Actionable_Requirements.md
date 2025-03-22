@@ -96,3 +96,14 @@ Separating questions and answers reduces bias and improves developer focus.
 - Create separate tables for questions and answers.  
 - Add a toggle feature to reveal/hide answers.  
 - Control answer visibility with user roles.
+
+### Implementation Strategy Sub-Issues
+
+**Sub-Issue 1:** Create Answer Table with Foreign Key Relationship  
+**Priority:** 🔴 High  
+- **Goal:** Separate questions and answers in the database schema.  
+- **Approach:** Create a normalized table `training_answers` with a `question_id` FK.  
+- **Tasks:**  
+  - Design DB schema  
+  - Implement using PostgreSQL  
+  - Test table relationships 
