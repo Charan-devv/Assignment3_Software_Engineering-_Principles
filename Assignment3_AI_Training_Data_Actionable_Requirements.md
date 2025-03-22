@@ -196,3 +196,9 @@ Detecting and correcting bias improves AI model reliability.
 **User Story:**  
 *As an AI developer, I want reports on data balance so I can identify gaps and improve training quality.*
 
+**Assumption:**  
+Clear reporting helps developers improve dataset fairness.
+
+**Validation Strategy:**  
+- Share prototypes and gather feedback.  
+- Compare AI performance before and after using data balance reports.  
