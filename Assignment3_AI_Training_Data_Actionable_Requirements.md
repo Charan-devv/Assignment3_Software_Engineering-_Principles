@@ -91,3 +91,8 @@ Separating questions and answers reduces bias and improves developer focus.
 **Validation Strategy:**  
 - Collect developer feedback on cognitive workflow.  
 - Compare model performance using mixed vs. separated training sets.  
+
+**Implementation Strategy:**  
+- Create separate tables for questions and answers.  
+- Add a toggle feature to reveal/hide answers.  
+- Control answer visibility with user roles.
