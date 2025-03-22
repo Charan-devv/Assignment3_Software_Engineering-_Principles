@@ -160,3 +160,14 @@ Detecting and correcting bias improves AI model reliability.
 - Integrate a fairness detection tool.  
 - Visualize dataset imbalance.  
 - Allow manual rebalancing before training. 
+
+### Implementation Strategy Sub-Issues
+
+**Sub-Issue 1:** Integrate Fairness Detection Library  
+**Priority:** 🔴 High  
+- **Goal:** Automatically flag imbalance in training data.  
+- **Approach:** Use AIF360 or Fairlearn to scan for bias.  
+- **Tasks:**  
+  - Install and configure library  
+  - Run tests on sample dataset  
+  - Output basic bias metrics 
