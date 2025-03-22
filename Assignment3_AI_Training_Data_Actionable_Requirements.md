@@ -85,3 +85,9 @@ Categorized questions help developers find relevant data faster.
 **User Story:**  
 *As an AI developer, I want questions stored separately from answers so I can think critically without being biased by the solution.*
 
+**Assumption:**  
+Separating questions and answers reduces bias and improves developer focus.
+
+**Validation Strategy:**  
+- Collect developer feedback on cognitive workflow.  
+- Compare model performance using mixed vs. separated training sets.  
