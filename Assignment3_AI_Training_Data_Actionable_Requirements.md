@@ -34,3 +34,11 @@ Categorized questions help developers find relevant data faster.
 - Enable filtering of questions by category in the UI.  
 
 ### Implementation Strategy Sub-Issues
+**Sub-Issue 1:** Implement Category Selection Component  
+**Priority:** 🔴 High  
+- **Goal:** Allow users to select categories while creating questions.  
+- **Approach:** Build a dropdown or tag-based component using React.  
+- **Tasks:**  
+  - Design UI mockup for category tagging  
+  - Implement reusable dropdown/tag selector  
+  - Integrate component with question form  
