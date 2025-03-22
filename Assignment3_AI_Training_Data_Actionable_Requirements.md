@@ -180,4 +180,13 @@ Detecting and correcting bias improves AI model reliability.
   - Integrate Chart.js  
   - Render balance summary view  
   - Test across user inputs 
+
+  **Sub-Issue 3:** Add Parameter Tuning Controls for Dataset Rebalancing  
+**Priority:** 🟠 Medium  
+- **Goal:** Allow user to adjust imbalance before training.  
+- **Approach:** Add UI sliders or checkboxes for control.  
+- **Tasks:**  
+  - Create filter control bar  
+  - Adjust sampling or weighting logic  
+  - Retest after adjustments 
   
