@@ -116,4 +116,13 @@ Separating questions and answers reduces bias and improves developer focus.
   - Add "Show/Hide Answer" toggle  
   - Set default to hidden  
   - Handle state transitions and UI feedback
+
+  **Sub-Issue 3:** Secure Access to Answers Using RBAC  
+**Priority:** 🟠 Medium  
+- **Goal:** Restrict answer visibility to authorized users.  
+- **Approach:** Implement role-based access on backend.  
+- **Tasks:**  
+  - Define user roles and permissions  
+  - Enforce in route/middleware  
+  - Test role restrictions 
   
